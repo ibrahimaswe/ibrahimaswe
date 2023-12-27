@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="left">🧑🏾‍💻  About Me</h3>
 
 ###
@@ -42,8 +48,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif"  />
-</div>
 
 ###
