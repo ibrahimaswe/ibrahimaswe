@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.redd.it/gtd91xvup9b51.gif"  />
-</div>
+
 
 ###
 
@@ -12,6 +10,12 @@
 ###
 
 <h1 align="center">Hi, My name is Ibrahima 🌠</h1>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.redd.it/gtd91xvup9b51.gif"  />
+</div>
 
 ###
 
