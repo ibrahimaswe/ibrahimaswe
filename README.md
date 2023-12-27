@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">🧑🏾‍💻  About Me</h3>
+<h3 align="center">🧑🏾‍💻  About Me</h3>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
