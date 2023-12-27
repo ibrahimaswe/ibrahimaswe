@@ -1,29 +1,12 @@
-
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
 <h1 align="center">Hi, My name is Ibrahima 🌠</h1>
 
 ###
 
-
-
-<iframe src="https://giphy.com/embed/mlBDoVLOGidEc" width="480" height="327" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-driving-mlBDoVLOGidEc">via GIPHY</a></p>
+<h3 align="left">🧑🏾‍💻  About Me</h3>
 
 ###
 
-<h3 align="center">🧑🏾‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as a ML research assistant <br>- 📚 I'm currently studying Computer Science at Kennesaw State University<br>- ⚡ In my free time I like to do personal projects and play soccer</p>
+<p align="left">- 🔭 I’m working as a ML research assistant <br>- 📚 I'm currently studying Computer Science at Kennesaw State<br>- ⚡ In my free time I like to do personal projects and play soccer</p>
 
 ###
 
@@ -31,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -54,7 +37,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrahimaswe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaswe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif"  />
 </div>
 
 ###
