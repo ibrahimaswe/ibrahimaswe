@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a ML research assistant <br>- 📚 I'm currently studying Computer Science at Kennesaw State<br>- ⚡ In my free time I like to do personal projects and play soccer</p>
+<p align="left">- 🔭 I’m working as a ML research assistant <br>- 📚 I'm currently studying Computer Science at Kennesaw State University<br>- ⚡ In my free time I like to do personal projects and play soccer</p>
 
 ###
 
