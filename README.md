@@ -1,10 +1,11 @@
 <h1 align="center">Hi, My name is Ibrahima 🌠</h1>
 
-###
+### 
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif"  />
 </div>
+
 
 ###
 
@@ -45,8 +46,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaswe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
-
-###
-
-
-###
